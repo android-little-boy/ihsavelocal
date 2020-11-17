@@ -1,0 +1,3 @@
+include ':ihsavelocal'
+include ':app'
+rootProject.name = "ihsavelocal"
